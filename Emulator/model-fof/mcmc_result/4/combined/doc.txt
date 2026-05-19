@@ -1,0 +1,7 @@
+emulator_path: /home/ljy/BettiCurveCosmo/Emulator/model-fof
+observed_data_path: /home/ljy/BettiCurveCosmo/Data/TestData/DimlessBC/fiducial_ZA-fof-bc.npy
+var_emu_path: /home/ljy/BettiCurveCosmo/Emulator/model-fof/mcmc_result/4/var_emu.npy
+cov_path: /home/ljy/BettiCurveCosmo/Emulator/model-fof/mcmc_result/4/cov_s8p.npy
+result_dir: /home/ljy/BettiCurveCosmo/Emulator/model-fof/mcmc_result/4/combined
+parameters: ['Om', 'Ob', 'h', 'ns', 's8', 'Mnu', 'w', 'scale_factor']
+cuts: [range(1, 6), range(2, 15), range(9, 19)]

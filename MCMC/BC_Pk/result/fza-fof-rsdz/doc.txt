@@ -1,0 +1,10 @@
+Emulator BC path: /home/ljy/BettiCurveCosmo/Emulator/model-fof-rsdz
+Emulator Pk path: /home/ljy/BettiCurveCosmo/PowSpec/model/model-fof-rsdz
+Observed BC path: /home/ljy/BettiCurveCosmo/Data/TestData/DimlessBC/fiducial_ZA-fof-rsdz-bc.npy
+Observed Pk path: /home/ljy/BettiCurveCosmo/PowSpec/data/fof/Phh_fiducial_ZA_[0.018,0.3]_rsdz.npy
+Var_emu BC path: /home/ljy/BettiCurveCosmo/Emulator/model-fof-rsdz/mcmc_result/1/var_emu.npy
+Var_emu Pk path: /home/ljy/BettiCurveCosmo/PowSpec/model/model-fof-rsdz/mcmc_result/1/var_rsd.npy
+Result directory: /home/ljy/BettiCurveCosmo/MCMC/BC_Pk/result/fza-fof-rsdz
+Parameters: ['Om', 'Ob', 'h', 'ns', 's8', 'Mnu', 'w', 'scale_factor']
+Cuts: [range(1, 6), range(2, 15), range(9, 19)]
+Multipoles: 2

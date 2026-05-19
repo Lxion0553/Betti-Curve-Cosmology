@@ -1,0 +1,7 @@
+emulator_path: /home/ljy/BettiCurveCosmo/PowSpec/model/model-fof-rsdz
+observed_data_path: /home/ljy/BettiCurveCosmo/PowSpec/data/fof/Phh_fiducial_ZA_[0.018,0.3]_rsdz.npy
+var_emu_path: /home/ljy/BettiCurveCosmo/PowSpec/model/model-fof-rsdz/mcmc_result/1/var_rsd.npy
+cov_path: None
+result_dir: /home/ljy/BettiCurveCosmo/PowSpec/model/model-fof-rsdz/mcmc_result/1/combined
+parameters: ['Om', 'Ob', 'h', 'ns', 's8', 'Mnu', 'w', 'scale_factor']
+cuts: None

@@ -1,0 +1,5 @@
+emulator_path: /home/ljy/BettiCurveCosmo/Emulator/model-fof-rsdz
+result_dir: /home/ljy/BettiCurveCosmo/Emulator/model-fof-rsdz/mcmc_result/nwLH-Recovery/87/combined
+parameters: [ 0.2531     0.04849    0.6471     0.9801     0.8911     0.8096725
+ -0.75805   14.505466 ]
+cuts: [range(1, 6), range(2, 15), range(9, 19)]

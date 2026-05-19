@@ -1,0 +1,7 @@
+emulator_path: /home/ljy/BettiCurveCosmo/Emulator/model-fof-rsdz
+observed_data_path: /home/ljy/BettiCurveCosmo/Data/TestData/DimlessBC/fiducial_ZA-fof-rsdz-bc.npy
+var_emu_path: /home/ljy/BettiCurveCosmo/Emulator/model-fof-rsdz/mcmc_result/1/var_emu.npy
+cov_path: None
+result_dir: /home/ljy/BettiCurveCosmo/Emulator/model-fof-rsdz/mcmc_result/1/dim0
+parameters: ['Om', 'Ob', 'h', 'ns', 's8', 'Mnu', 'w', 'scale_factor']
+cuts: [range(1, 6), range(2, 15), range(9, 19)]

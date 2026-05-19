@@ -1,0 +1,7 @@
+emulator_path: /home/ljy/BettiCurveCosmo/PowSpec/model/model-fof
+observed_data_path: /home/ljy/BettiCurveCosmo/PowSpec/data/fof/Phh_fiducial_ZA_[0.018,0.3].npy
+var_emu_path: /home/ljy/BettiCurveCosmo/PowSpec/model/model-fof/mcmc_result/1/var_norsd.npy
+cov_path: None
+result_dir: /home/ljy/BettiCurveCosmo/PowSpec/model/model-fof/mcmc_result/1/dim0
+parameters: ['Om', 'Ob', 'h', 'ns', 's8', 'Mnu', 'w', 'scale_factor']
+cuts: None
