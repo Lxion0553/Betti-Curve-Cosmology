@@ -1,0 +1,10 @@
+numpy
+scipy
+scikit-learn
+joblib
+matplotlib
+gudhi
+ultranest
+getdist
+auto-sklearn
+alpha_complex_periodic
